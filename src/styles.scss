@@ -1,0 +1,17 @@
+
+@import "../node_modules/bootstrap/dist/css/bootstrap.css";
+@import "../node_modules//@fortawesome/fontawesome-free/css/fontawesome.min.css";
+@import "../node_modules/@fortawesome/fontawesome-free/css/all.min.css";
+@import "../node_modules/admin-lte/dist/css/adminlte.min.css";
+
+@import '~ngx-toastr/toastr';
+
+// html, body { height: 100%; }
+// body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+::-webkit-scrollbar {
+  width: 0px;
+  /* remove scrollbar space */
+  background: transparent;
+  /* optional: just make scrollbar invisible */
+}
